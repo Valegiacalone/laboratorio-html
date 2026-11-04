@@ -95,7 +95,8 @@ footer {
 }
  table,th,td {border: 1px solid black;}
 caption{font-weight:bold;color:blue}
-th{background-color:yellow;}
+th{background-color:#FFFF00;}
 td{text-align:center;}
+td{background-color:#FFFFFF;}
 
 
