@@ -97,6 +97,9 @@ footer {
 caption{font-weight:bold;color:blue}
 th{background-color:#FFFF00;}
 td{text-align:center;}
+td {
+  background-color: transparent; 
+}
 
 
 
